@@ -1,0 +1,7 @@
+1. Configure Google Sheets API
+2. Install Python Libraries
+3. Collect Sensor Data from Arduino
+4. TimeStamp
+5. Edge Computing
+6. Push Data to Cloud
+7. Visualize
